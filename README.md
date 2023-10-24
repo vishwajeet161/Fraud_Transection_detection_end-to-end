@@ -15,3 +15,20 @@ classifiers were performing better than before.</li>
 one-class SVM. We finally observed that Logistic regression, decision tree and random
 forest are the algorithms that gave better results.</li>
 </ul>
+
+<b>Dataset </b>
+Inhouse Data ( Supply chain Domain )
+
+<b>Technology Used:</b>
+● Python Programming
+● Library used
+  (○ Numpy
+  ○ Pandas
+  ○ Matplotlib
+  ○ Seaborn
+  ○ Sklearn)
+● Machine Learning
+  {○ Single Prediction
+  ○ Batch Prediction)
+● Flask API
+● HTML, CSS, JS for Designing
